@@ -1,2 +1,2 @@
-# github-wiederholungstag
+# github-Wiederholungstag
 Eine Wiederholung der wichtigsten Github Commandos
