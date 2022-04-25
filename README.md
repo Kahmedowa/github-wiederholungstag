@@ -5,4 +5,4 @@ Eine Wiederholung der wichtigsten Github Commandos
 1. In mein Verzeichnis wechseln
 2. git clone ssh-projekt
 3. cd in das geclonte Verzeichnis
-4. code . VS Code öffnen
+4. `code .` ausführen, um VS Code zu öffnen
